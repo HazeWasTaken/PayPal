@@ -1,4 +1,4 @@
-repeat wait()
+game:service'RunService'.Stepped:Connect(function()
 if game:GetService("Players").LocalPlayer.Character.Humanoid.Health < 100 then
                         local Client = {}
                 
@@ -26,4 +26,4 @@ if game:GetService("Players").LocalPlayer.Character.Humanoid.Health < 100 then
                         }
                         Client.FireServerT:FireServer(unpack(Arguments))
                     end
-                    until gae 
+                    end)
