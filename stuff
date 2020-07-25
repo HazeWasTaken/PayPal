@@ -19,4 +19,4 @@ if game:GetService("Players").LocalPlayer.Character.Humanoid.Health < 100 then
                         }
                         Remote:FireServer(unpack(Arguments))
                     end
-                    
+                    end)
