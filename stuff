@@ -20,15 +20,3 @@ if game:GetService("Players").LocalPlayer.Character.Humanoid.Health < 100 then
                         Remote:FireServer(unpack(Arguments))
                     end
                     
-                    if not game.Workspace:FindFirstChild(game:GetService("Players").LocalPlayer.Name):FindFirstChild("InVehicle") then
-            getsenv(game:GetService("Players").LocalPlayer.PlayerScripts.LocalScript).tick = function() return 0/0 end
-            if isrbxactive() then
-                wait(0.05)
-            else
-                getsenv(game:GetService("Players").LocalPlayer.PlayerScripts.LocalScript).tick = tick
-                end
-            end
-        else
-            getsenv(game:GetService("Players").LocalPlayer.PlayerScripts.LocalScript).tick = tick
-                    
-                    end)
