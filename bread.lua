@@ -1,3 +1,4 @@
+getconstants = debug.getconstants or getconstants
 bread = {}
 for i, v in pairs(getgc(true)) do
   if type(v) == "table" then
