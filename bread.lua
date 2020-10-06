@@ -1,4 +1,8 @@
 getconstants = debug.getconstants or getconstants
+getupvalues = getupvalues or debug.getupvalues
+setupvalue = setupvalue or debug.setupvalue
+getreg = getreg or debug.getregistry
+getproto = getproto or debug.getproto
 bread = {}
 for i, v in pairs(getgc(true)) do
   if type(v) == "table" then
