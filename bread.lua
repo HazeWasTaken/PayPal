@@ -53,4 +53,4 @@ local teama = (function()
     
      getgenv().teamhesh = bread.TeamChangee
      
-     bread.Remote:FireServer(getgenv().teamhesh, "Police")
+     bread.Remote:FireServer("a5f1002f", "Police")
