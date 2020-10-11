@@ -1,3 +1,4 @@
+pcall(function()
 getconstants = debug.getconstants or getconstants
 getupvalues = getupvalues or debug.getupvalues
 setupvalue = setupvalue or debug.setupvalue
@@ -54,3 +55,4 @@ local teama = (function()
      getgenv().teamhesh = bread.TeamChangee
      
      bread.Remote:FireServer(getgenv().teamhesh, "Police")
+end)
