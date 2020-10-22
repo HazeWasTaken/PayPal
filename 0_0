@@ -56,7 +56,7 @@ if tpexec then
         tpexec('getgenv().sendsafe = true')
         tpexec("getgenv().dudewhomakedosh = '"..getgenv().dudewhomakedosh.."' ")
     end
-    tpexec("loadstring(game:HttpGet('https://raw.githubusercontent.com/HazeWasTaken/JailedHax/master/AutoArrest'))()")
+    tpexec("loadstring(game:HttpGet('https://raw.githubusercontent.com/HazeWasTaken/PayPal/master/0_0'))()")
 end
 
 if one == nil then
