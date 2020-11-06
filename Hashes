@@ -4,5 +4,6 @@ getgenv().hash = {
   ["SafeSend"] = "d246dfa5",
   ["Team"] = "e885b8c6",
   ["Damage"] = "c58c723a",
-  ["Arrest"] = "f8cbed0e"
+  ["Arrest"] = "f8cbed0e",
+  ["Eject"] = "c2687038"
 }
