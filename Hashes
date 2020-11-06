@@ -1,1 +1,7 @@
-
+getgenv().hash = {
+  ["Donut"] = "d88d5dc8",
+  ["Equip"] = "d93289d5",
+  ["SafeSend"] = "d246dfa5",
+  ["Team"] = "e885b8c6",
+  ["Damage"] = "c58c723a"
+}
