@@ -1,9 +1,9 @@
 getgenv().Hashes = {
-  ["Donut"] = "d88d5dc8",
-  ["Equip"] = "d93289d5",
-  ["SafeSend"] = "d246dfa5",
-  ["Team"] = "e885b8c6",
-  ["Damage"] = "c58c723a",
-  ["Arrest"] = "f8cbed0e",
+  ["Donut"] = "dd6f014e",
+  ["Equip"] = "c1c258a7",
+  ["SafeSend"] = "db47b589",
+  ["Team"] = "c3b957b5",
+  ["Damage"] = "ffbd9595",
+  ["Arrest"] = "bb514d47",
   ["Eject"] = "ffe2e5cb"
 }
