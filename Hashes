@@ -5,5 +5,5 @@ getgenv().Hashes = {
   ["Team"] = "e885b8c6",
   ["Damage"] = "c58c723a",
   ["Arrest"] = "f8cbed0e",
-  ["Eject"] = "f1f2b27a"
+  ["Eject"] = "ffe2e5cb"
 }
