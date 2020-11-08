@@ -1,4 +1,4 @@
-getgenv().Hashes = {
+--[[getgenv().Hashes = {
   ["Donut"] = "dd6f014e",
   ["Equip"] = "c1c258a7",
   ["SafeSend"] = "db47b589",
@@ -7,4 +7,18 @@ getgenv().Hashes = {
   ["Arrest"] = "bb514d47",
   ["Eject"] = "ffe2e5cb",
   ["Gun"] = "e0663ed3"
+}--]]
+
+
+
+getgenv().Hashes = {
+  ["Donut"] = "a4a53692",
+  ["Equip"] = "d6842df9",
+  ["SafeSend"] = "d9d07541",
+  ["Team"] = "c10c9170",
+  ["Damage"] = "e9018e5b",
+  ["Arrest"] = "d6842df9",
+  ["Eject"] = "a4ab08dd",
+  ["Gun"] = "d4db0c1e"
 }
+
