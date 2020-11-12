@@ -7,7 +7,7 @@
   ["Arrest"] = "bb514d47",
   ["Eject"] = "ffe2e5cb",
   ["Gun"] = "e0663ed3"
-}--]]
+}
 
 
 
@@ -20,5 +20,18 @@ getgenv().Hashes = {
   ["Arrest"] = "d6842df9",
   ["Eject"] = "a4ab08dd",
   ["Gun"] = "d4db0c1e"
+}-]]
+
+getgenv().Hashes = {
+  ["Donut"] = "e6eee5fc",
+  ["Equip"] = "d6842df9",
+  ["SafeSend"] = "a46f4125",
+  ["Team"] = "e6a7213b",
+  ["Damage"] = "bbe083e1",
+  ["Arrest"] = "f5f4f274",
+  ["Eject"] = "aba51f00",
+  ["Gun"] = "d4db0c1e"
 }
+
+
 
