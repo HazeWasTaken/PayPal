@@ -24,7 +24,7 @@ getgenv().Hashes = {
 
 getgenv().Hashes = {
   ["Donut"] = "e6eee5fc",
-  ["Equip"] = "d6842df9",
+  ["Equip"] = "efeb476e",
   ["SafeSend"] = "a46f4125",
   ["Team"] = "e6a7213b",
   ["Damage"] = "bbe083e1",
