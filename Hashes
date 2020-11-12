@@ -20,7 +20,7 @@ getgenv().Hashes = {
   ["Arrest"] = "d6842df9",
   ["Eject"] = "a4ab08dd",
   ["Gun"] = "d4db0c1e"
-}-]]
+}--]]
 
 getgenv().Hashes = {
   ["Donut"] = "e6eee5fc",
