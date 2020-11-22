@@ -54,7 +54,7 @@ function library:CreateFrame()
     local Dis = Instance.new("TextLabel")
 
     PayPal.Name = "PayPal"
-    PayPal.Parent = game.CoreGui
+    PayPal.Parent = game:GetService("CoreGui")
 
     Frame.Name = "Frame"
     Frame.Parent = PayPal
