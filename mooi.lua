@@ -324,3 +324,4 @@ function library:CreateFrame()
     end
     return UtilsLib
 end
+return library
