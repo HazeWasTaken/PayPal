@@ -292,7 +292,7 @@ function library:CreateFrame()
 
     end
 
-    function UtilsLib:CreateTextBox()
+    function UtilsLib:CreateTextBox(bread)
         local TextBox = Instance.new("TextBox")
         local TextBox_Roundify_4px = Instance.new("ImageLabel")
 
@@ -302,6 +302,7 @@ function library:CreateFrame()
         TextBox.BorderSizePixel = 0
         TextBox.Size = UDim2.new(0, 200, 0, 50)
         TextBox.ZIndex = 2
+        TextBox.Name = bread
         TextBox.Font = Enum.Font.GothamSemibold
         TextBox.Text = "PlayerName"
         TextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
