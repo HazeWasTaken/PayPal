@@ -60,7 +60,7 @@ function library:CreateFrame()
     Frame.Parent = PayPal
     Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     Frame.BackgroundTransparency = 1.000
-    Frame.Position = UDim2.new(0, 9, 0, 669)
+    Frame.Position = UDim2.new(0.186170205, 0, 0.216924906, 0)
     Frame.Size = UDim2.new(0, 513, 0, 306)
     Frame.Image = "rbxassetid://3570695787"
     Frame.ImageColor3 = Color3.fromRGB(26, 26, 26)
@@ -169,9 +169,9 @@ function library:CreateFrame()
 
     local UtilsLib = {}
 
-    function UtilsLib:CreateLabel(text)
+    function UtilsLib:CreateLabel(text, name)
         local Label = Instance.new("TextLabel")
-        Label.Name = "Label"
+        Label.Name = name
         Label.Parent = TabFrameRound
         Label.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
         Label.BackgroundTransparency = 1.000
@@ -324,4 +324,3 @@ function library:CreateFrame()
     end
     return UtilsLib
 end
-return library
