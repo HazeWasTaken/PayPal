@@ -60,7 +60,7 @@ function library:CreateFrame()
     Frame.Parent = PayPal
     Frame.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
     Frame.BackgroundTransparency = 1.000
-    Frame.Position = UDim2.new(0, 9, 0, 669)
+    Frame.Position = UDim2.new(.5, -50, .5, -50)
     Frame.Size = UDim2.new(0, 513, 0, 306)
     Frame.Image = "rbxassetid://3570695787"
     Frame.ImageColor3 = Color3.fromRGB(26, 26, 26)
