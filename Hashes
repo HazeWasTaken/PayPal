@@ -1,10 +1,8 @@
-getgenv().Hashes = {
-  ["Donut"] = "f205949f",
-  ["Equip"] = "a6a9e8a0",
-  ["SafeSend"] = "d69d2f45",
-  ["Team"] = "c95ebbec",
-  ["Damage"] = "c7e3a938",
- ["Arrest"] = "c403456e",
-  ["Eject"] = "d87277df",
-   ["Gun"] =  "c4ca79a8",
-}
+local bread = {}
+bread.EjectHash = "af6e6c42"
+bread.TeamHash = "c95ebbec"
+bread.DonutHash = "f205949f"
+bread.Safe = "d69d2f45"
+bread.GunHash = "c4ca79a8"
+bread.KillHash = "c7e3a938"
+return bread
