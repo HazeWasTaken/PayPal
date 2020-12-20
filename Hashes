@@ -3,6 +3,6 @@ bread.EjectHash = "fda822a4"
 bread.TeamHash = "ffab989d"
 bread.DonutHash = "ee7bb8c9"
 bread.Safe = "d7adfec1"
-bread.GunHash = "db8cb053"
+bread.GunHash = "d313d30d"
 bread.KillHash = "c5012c61"
 return bread
