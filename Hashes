@@ -1,8 +1,8 @@
 local bread = {}
-bread.EjectHash = "b2d56cf6"
-bread.TeamHash = "bbe6909a"
-bread.DonutHash = "dbafb82e"
-bread.Safe = "b1127c59"
-bread.GunHash = "e7ecc34e"
-bread.KillHash = "d0458d3b"
+bread.EjectHash = "aa6ebeaf"
+bread.TeamHash = "dd7241cc"
+bread.DonutHash = "a466feaa"
+bread.Safe = "b20f7a48"
+bread.GunHash = "ed9c6548"
+bread.KillHash = "c81e654a"
 return bread
